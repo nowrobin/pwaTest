@@ -1,8 +1,8 @@
 {
   "theme_color": "#3f536d",
   "background_color": "#b37336",
-  "display": "browser",
-  "scope": "/",
+  "display": "standalone",
+  "scope": ".",
   "start_url": "https://pwa-test-gt5zmdz7e-nowrobin.vercel.app/",
   "name": "Simsimpuri",
   "short_name": "Simp",
